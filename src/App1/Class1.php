@@ -16,5 +16,7 @@ class Class1
         $var4 = 'var4';
 
 
+
+
     }
 }
